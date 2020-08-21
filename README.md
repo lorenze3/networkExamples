@@ -1,2 +1,2 @@
 # networkExamples
-Static HTML for network model medium article
+Example networks examining relationships between Intel Corp's net revenue and management expenses.
